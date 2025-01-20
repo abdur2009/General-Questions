@@ -35,6 +35,22 @@ h1 {
     width: 80%;
     justify-content: space-between;
 }
+.ansSec2 {
+    font-size: 1.8em;
+    display: flex;
+    padding: 20px;
+    border: 1px solid rgb(0, 0, 0);
+    width: 80%;
+    justify-content: space-between;
+}
+.ansSec3 {
+    font-size: 1.8em;
+    display: flex;
+    padding: 20px;
+    border: 1px solid rgb(0, 0, 0);
+    width: 80%;
+    justify-content: space-between;
+}
 
 .ansSec1go {
     display: none;
