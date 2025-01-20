@@ -2,7 +2,7 @@
 function open1(){
     console.log("hello world")
 //     document.querySelector('.ansSec').innerHTML=""   
-    document.querySelector('.ansSec1go').classList.toggle("ansSec1go")
+    document.querySelector('.ansSec').classList.toggle("ansSec1go")
 }
 function open2(){
     console.log("hello world")
